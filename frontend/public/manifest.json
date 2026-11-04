@@ -1,0 +1,21 @@
+{
+  "name": "منصة متعددة المدارس",
+  "short_name": "منصة المدارس",
+  "description": "منصة إدارة متعددة المدارس",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4F46E5",
+  "lang": "ar",
+  "dir": "rtl",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
